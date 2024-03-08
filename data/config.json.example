@@ -1,0 +1,11 @@
+{
+  "discord_bot_token": "<TOKEN>",
+  "messages": {
+    "join_server": "Hey $USER, welcome to Gosu :tada::hugging:!",
+    "leave_server": "$USER has left the server"
+  },
+  "channels": {
+    "introduce_yourself_channel": 433822031998353408,
+    "jam_channel": 510002395040710667
+  }
+}
