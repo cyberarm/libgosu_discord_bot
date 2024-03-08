@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-"json"
-"discordrb"
+gem "json"
+gem "discordrb", github: "shardlab/discordrb"
